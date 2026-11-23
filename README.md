@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi, Saya Sultan Muqsith 😍
 <!--
 **Vientzzz/Vientzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📖 Universitas: UIN Jakarta
+- 🌱 I’m currently learning html and css
+- ⚡ Fun fact: **Rank Imo**
+![Mewing Sigma](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlraHkwZjFnNGtwMGo4M3h6ZWI1MzlueTlpcGJianRlb3l2ZHp4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O4B8IPrI2BOFCpr5P9/giphy.gif)
